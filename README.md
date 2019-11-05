@@ -1,2 +1,2 @@
-# E-itim-Materyalleri
+# Egitim-Materyalleri
 Animasyonlar ve görselleri olabildiğince kendim ürettim
